@@ -1,0 +1,75 @@
+# ninja log v5
+4	163	6761634947190969	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+4	163	6761634947190969	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+165	1796	6761634963530911	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/main.cpp.obj	b9104ca9adc14f6b
+4	163	6761634947190969	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+4	163	6761634947190969	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+724	2213	6761634678979966	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp.obj	e288d16bdff77d57
+727	787	6761634664719994	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/Observer.cpp.obj	dec4bbd24702648a
+1796	2182	6761634965200646	e913_913_Hornea_Dorian_Alexandru_1.exe	cbaace163fe9c391
+167	1776	6761634963320660	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+7	306	6762077003357962	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	306	6762077003357962	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	306	6762077003357962	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	306	6762077003357962	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+308	727	6762077007597707	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/domain.cpp.obj	d224b2ab4e429833
+312	734	6762077007647707	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/Observer.cpp.obj	dec4bbd24702648a
+314	862	6762077008937704	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/Service.cpp.obj	9be7fcb75a2bd191
+316	1098	6762077011278025	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/repository.cpp.obj	debbaa7bbfb08d2c
+310	2230	6762077022605289	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+2230	2796	6762077026210151	e913_913_Hornea_Dorian_Alexandru_1.exe	575da05274a2cd64
+8	581	6762078739859471	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	581	6762078739859471	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+8	581	6762078739859471	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	581	6762078739859471	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+8	596	6762092370497328	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	596	6762092370497328	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+8	596	6762092370497328	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	596	6762092370497328	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+596	2165	6762092387230177	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp.obj	e288d16bdff77d57
+13	361	6762092433320454	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+13	361	6762092433320454	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+13	361	6762092433320454	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+13	361	6762092433320454	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	163	6762092871303105	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	163	6762092871303105	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	163	6762092871303105	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	163	6762092871303105	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+168	2321	6762092892873090	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+8	170	6762093714346573	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	170	6762093714346573	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+8	170	6762093714346573	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	170	6762093714346573	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+173	1768	6762093730328987	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/main.cpp.obj	b9104ca9adc14f6b
+174	2374	6762093736379051	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+2374	2774	6762093738658990	e913_913_Hornea_Dorian_Alexandru_1.exe	575da05274a2cd64
+7	622	6762101073174187	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	622	6762101073174187	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	622	6762101073174187	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	622	6762101073174187	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+622	2255	6762101090774205	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp.obj	e288d16bdff77d57
+628	3049	6762101098714198	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+7	164	6762101672571918	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	164	6762101672571918	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	164	6762101672571918	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	164	6762101672571918	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+167	1958	6762101690502203	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/main.cpp.obj	b9104ca9adc14f6b
+168	2451	6762101695442236	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+8	655	6762101998489918	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	655	6762101998489918	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+8	655	6762101998489918	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+8	655	6762101998489918	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+655	2276	6762102015859880	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp.obj	e288d16bdff77d57
+657	2606	6762102019150151	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/main.cpp.obj	b9104ca9adc14f6b
+7	161	6762102123981322	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	161	6762102123981322	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+7	161	6762102123981322	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+7	161	6762102123981322	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+163	2323	6762102145604770	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+2324	2729	6762102147934764	e913_913_Hornea_Dorian_Alexandru_1.exe	575da05274a2cd64
+4	177	6762131377622391	e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+4	177	6762131377622391	e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+4	177	6762131377622391	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/timestamp	73602d6871d4d56d
+4	177	6762131377622391	D:/OOP assignments/e913-913-Hornea-Dorian-Alexandru-1/cmake-build-debug/e913_913_Hornea_Dorian_Alexandru_1_autogen/mocs_compilation.cpp	73602d6871d4d56d
+179	2392	6762131399750128	CMakeFiles/e913_913_Hornea_Dorian_Alexandru_1.dir/window.cpp.obj	1fe611ec41967685
+2392	2997	6762131403979250	e913_913_Hornea_Dorian_Alexandru_1.exe	575da05274a2cd64

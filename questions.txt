@@ -1,0 +1,7 @@
+1 da? nu 5
+2 mergi? stau 10
+3 stai? merg 7
+4 mananci? beau 4
+5 bei? mananc 3
+6 merge? merge 9
+7 whatever yes 4
